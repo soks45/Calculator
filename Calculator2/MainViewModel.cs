@@ -114,7 +114,8 @@ namespace Calculator2
             {
                 try
                 {
-                    double result = 3; //CalcLogic.calculate(Expr);
+                    CalcLogic calc = new CalcLogic();
+                    double result = calc.calculate(Expr);
                     history.Add(new Tuple<string, double>(Expr, result));
                     //using (StreamWriter sw = File.AppendText(historyFilename))
                     //{
