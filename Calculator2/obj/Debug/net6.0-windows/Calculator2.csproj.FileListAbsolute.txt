@@ -34,3 +34,4 @@ E:\Projects\Calculator2\Calculator2\bin\Debug\net6.0-windows\runtimes\win-x86\na
 E:\Projects\Calculator2\Calculator2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\Projects\Calculator2\Calculator2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 E:\Projects\Calculator2\Calculator2\obj\Debug\net6.0-windows\Calculator2.csproj.CopyComplete
+E:\Projects\Calculator2\Calculator2\bin\Debug\net6.0-windows\FluentAssertions.dll

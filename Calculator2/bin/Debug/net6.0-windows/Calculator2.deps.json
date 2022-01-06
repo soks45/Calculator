@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Calculator2/1.0.0": {
         "dependencies": {
+          "FluentAssertions": "6.3.0",
           "System.Data.SQLite": "1.0.115.5"
         },
         "runtime": {
@@ -30,6 +31,17 @@
           "lib/netstandard2.1/EntityFramework.dll": {
             "assemblyVersion": "6.0.0.0",
             "fileVersion": "6.400.420.21404"
+          }
+        }
+      },
+      "FluentAssertions/6.3.0": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/FluentAssertions.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
           }
         }
       },
@@ -206,6 +218,13 @@
       "sha512": "sha512-yj1+/4tci7Panu3jKDHYizxwVm0Jvm7b7m057b5h4u8NUHGCR8WIWirBTw+8EptRffwftIWPBeIRGNKD1ewEMQ==",
       "path": "entityframework/6.4.4",
       "hashPath": "entityframework.6.4.4.nupkg.sha512"
+    },
+    "FluentAssertions/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f+ywjTSNhc1HDtzCqtYHB6/Xuf69pznR8eUPJs1CoaFq00sCIg6KjGcXHwdWslnmy4x5TAq3kRw1728CSaQ/zw==",
+      "path": "fluentassertions/6.3.0",
+      "hashPath": "fluentassertions.6.3.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.7.0": {
       "type": "package",

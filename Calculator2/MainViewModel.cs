@@ -114,7 +114,7 @@ namespace Calculator2
             {
                 try
                 {
-                    double result = System.Convert.ToDouble(new DataTable().Compute(Expr, null));
+                    double result = 3; //CalcLogic.calculate(Expr);
                     history.Add(new Tuple<string, double>(Expr, result));
                     //using (StreamWriter sw = File.AppendText(historyFilename))
                     //{
@@ -124,9 +124,9 @@ namespace Calculator2
                     {
                         connection.Open();
                         var command = connection.CreateCommand();
-                        command.CommandText = "insert into historycollection (expression, answer) values("  + "\"" + Expr + "\"" + "," + result + ");";
+                        command.CommandText = "insert into historycollection (expression, answer) values(" + "\"" + Expr + "\"" + "," + result + ");";
                         var reader = command.ExecuteReader();
-                        
+
                     }
                     Expr = result.ToString();
                 }

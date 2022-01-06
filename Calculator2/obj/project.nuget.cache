@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "pbgS2aFr56k04SY1aZ/lEEnyKf/jPAeOmAekt7Tw7Mjx4kU+iXmX5NUNYw52EGK6SIz97yDT6S0pqBuEt+w9+Q==",
+  "dgSpecHash": "i5B3Y7xiQiqTrCvZUTgmhE3wUdPlluNQWAeRmeb8X9TrLYO0knQX+MCeeHf7MVsc9hheooIBljGNj8/UDDamMg==",
   "success": true,
   "projectFilePath": "E:\\Projects\\Calculator2\\Calculator2\\Calculator2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soks1\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\soks1\\.nuget\\packages\\fluentassertions\\6.3.0\\fluentassertions.6.3.0.nupkg.sha512",
     "C:\\Users\\soks1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\soks1\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\soks1\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
@@ -26,7 +27,11 @@
     "C:\\Users\\soks1\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
     "C:\\Users\\soks1\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
     "C:\\Users\\soks1\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\soks1\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+    "C:\\Users\\soks1\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\soks1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\soks1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\soks1\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\soks1\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
